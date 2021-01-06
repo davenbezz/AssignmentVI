@@ -80,3 +80,6 @@ header > div > img{
     width: 100%;
     height: auto;
 }
+#myqrcode{
+    max-width: 7rem;
+}
