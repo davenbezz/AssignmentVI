@@ -83,3 +83,7 @@ header > div > img{
 #myqrcode{
     max-width: 7rem;
 }
+#books{
+    display: flex;
+    flex-wrap: wrap;
+}
